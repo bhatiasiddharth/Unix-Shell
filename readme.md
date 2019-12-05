@@ -1,6 +1,6 @@
 # Commands:
 1. ls
-2. ls&    No space between command and &
+2. ls&
 3. ps
 4. exit
 5. Ctrl-C
